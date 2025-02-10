@@ -18,7 +18,7 @@
    pip install stegano
    pip install tk
    pkg instoll git
-   git clone 
+   git clone https://github.com/RH0099/spy.git
    ```
 
 3. **কোড ফাইল তৈরি করুন**:
